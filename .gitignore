@@ -2,6 +2,7 @@
 /datas 
 *.csv
 *.pkl
+*.pth
 
 __pycache__/
 *.py[cod]
