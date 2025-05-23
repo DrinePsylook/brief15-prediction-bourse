@@ -3,6 +3,8 @@
 *.csv
 *.pkl
 *.pth
+*.pickle
+*.ckpt
 
 __pycache__/
 *.py[cod]
