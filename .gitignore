@@ -5,6 +5,7 @@
 *.pth
 *.pickle
 *.ckpt
+/darts_logs
 
 __pycache__/
 *.py[cod]
